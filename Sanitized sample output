@@ -1,0 +1,7 @@
++ Target:  http://127.0.0.1
++ Server:  Apache/2.4.41 (Ubuntu)
++ Port:    80
++ Start Time: 2025-09-01 13:02:21
++ /admin/: Possible information disclosure (directory listing enabled)
++ /robots.txt: Disallowed entries found
++ End Time: 2025-09-01 13:02:32 (11 seconds)
